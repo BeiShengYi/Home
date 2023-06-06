@@ -38,6 +38,7 @@ import {
   Compass,
   Book,
   Fire,
+  Burn,
 } from "@vicons/fa";
 
 // 网站链接数据
@@ -51,27 +52,12 @@ let linksData = [
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://alist.shweichen.top",
   },
   {
-    icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
-  },
-  {
-    icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
-  },
-  {
-    icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
-  },
-  {
-    icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.imsyy.top/",
+    icon: Burn,
+    name: "GPT",
+    link: "https://gpt.shweichen.top",
   },
 ];
 
